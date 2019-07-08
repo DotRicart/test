@@ -1,2 +1,5 @@
 llet
 pasta
+sopa
+carn
+birres
