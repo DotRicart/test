@@ -2,7 +2,4 @@ llet
 pasta
 sopa
 carn
-verdures
 birres
-amanida
-aigua
